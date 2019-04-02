@@ -1,4 +1,5 @@
-"""Lists Example"""
+"""Lists Example
+Append, extend, insert, remove del """
 data = ['c', 'c++', 'Java', 100, 200]
 
 #Operations
@@ -6,7 +7,7 @@ print "Number of elements in my list = ", len(data)
 print "First element: ", data[0]
 print "Last element: ", data[-1]
 
-#Memeber ship
+#Member ship
 print "Is python in mylist = ", 'python' in data
 print "Is Java in mylist = ", 'Java' in data
 
